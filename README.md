@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Nallapaneni Sai Teja
-#### Web Development
 ![Web Development](https://github.com/SaiiTeja/mini_project/blob/master/Brown%20and%20Gray%20Simple%20Personal%20LinkedIn%20Banner.png?raw=true)
+### I'm Nallapaneni Sai Teja
+#### Web Development
 
  A third-year B.Tech student specializing in Artificial Intelligence and Machine Learning. My journey is all about blending creativity, logic, and innovation to tackle real-world challenges.
 
@@ -12,6 +12,4 @@ Skills: HTML / CSS/ JS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SaiiTeja)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/nallapaneni-saiteja/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/im_saiteja/)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/SaiiTeja/contributions?format=svg&private=true)  
 
