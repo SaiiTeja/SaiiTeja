@@ -11,5 +11,5 @@ Skills: HTML / CSS/ JS
 - 📫 How to reach me: www.linkedin.com/in/nallapaneni-saiteja 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SaiiTeja)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/nallapaneni-saiteja/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/im_saiteja/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='4'>](https://github.com/https://github.com/SaiiTeja)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='4'>](https://www.linkedin.com/in/www.linkedin.com/in/nallapaneni-saiteja/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='4'>](https://www.instagram.com/im_saiteja/)  
 
