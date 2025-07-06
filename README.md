@@ -10,6 +10,16 @@ Skills: HTML / CSS/ JS
 - 🌱 I’m currently learning JavaScript and frameworks like Django 
 - 📫 How to reach me: www.linkedin.com/in/nallapaneni-saiteja 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='4'>](https://github.com/https://github.com/SaiiTeja)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='4'>](https://www.linkedin.com/in/www.linkedin.com/in/nallapaneni-saiteja/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='4'>](https://www.instagram.com/im_saiteja/)  
-
+<p align="center">
+  <a href="https://github.com/SaiiTeja">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nallapaneni-saiteja/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/im_saiteja/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30">
+  </a>
+</p>
